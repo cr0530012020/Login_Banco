@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login_Banco</string>
+    <string name="digite_su_contrase_a">Digite su contraseña</string>
+    <string name="digite_su_nombre">Digite su nombre</string>
+    <string name="ver_saldo">Ver Saldo</string>
+    <string name="ok">Ok</string>
+    <string name="salir">Salir</string>
+    <string name="bienvenido_al_banco">Bienvenido al Banco</string>
+    <string name="tu_saldo_se_mostrara_aqu">Tu saldo se mostrara aquí</string>
+    <string name="ingresar_dinero">Ingresar Dinero</string>
+</resources>
